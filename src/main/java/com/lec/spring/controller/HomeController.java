@@ -27,6 +27,6 @@ public class HomeController {
         }
 
 
-        return "<h1>AWS 배포 v2</h1>";
+        return "<h1>민호 v2</h1>";
     }
 }
